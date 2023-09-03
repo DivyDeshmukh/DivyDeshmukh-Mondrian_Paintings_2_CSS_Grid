@@ -10,6 +10,8 @@ body {
     margin: 0;
 }
 
+
+
 h1 {
     text-align: center;
     color: black;
@@ -37,8 +39,9 @@ span {
     grid-template-rows: 50px 75px 100px 150px 30px 90px 100px 30px;
     background-color: #232629;
     gap: 30px;
-    transform: rotate(-35deg);
+    
     margin-top: 80px;
+    position: relative;
 }
 
 .one {
